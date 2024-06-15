@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as a technical writer.
+- 🌱 I'm currently learning API documentation and how to take better care of my plants.
+- 💬 Ask me about technical documentation, content management, user experience.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pola-drakopoulou/).
 <!--
 **PolaDrak/PolaDrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
