@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a senior technical writer.
 - 🌱 I'm learning API documentation and how to take better care of my plants.
 - 💬 Ask me about technical documentation, content management, user experience.
-- 🔭 I love outdoor running, studying neuroscience and storytelling, and making recipes for my food blog [TheEudemonia](https://theeudemonia.com/)
+- 🔭 I love outdoor running, studying neuroscience and storytelling, and making recipes for my blog [The Eudemonia](https://theeudemonia.com/)
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/pola-drakopoulou/).
 <!--
 **PolaDrak/PolaDrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
