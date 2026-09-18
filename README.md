@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a technical writer.
-- 🌱 I'm currently learning API documentation and how to take better care of my plants.
+- 🔭 I’m currently working as a senior technical writer.
+- 🌱 I'm learning API documentation and how to take better care of my plants.
 - 💬 Ask me about technical documentation, content management, user experience.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pola-drakopoulou/).
 <!--
